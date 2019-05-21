@@ -1,0 +1,19 @@
+H:\Informatique\Projet Quarto\Projet_218_Hgot_Chalan\Projet1\bin\Debug\Projet1.exe.config
+H:\Informatique\Projet Quarto\Projet_218_Hgot_Chalan\Projet1\bin\Debug\Projet1.exe
+H:\Informatique\Projet Quarto\Projet_218_Hgot_Chalan\Projet1\bin\Debug\Projet1.pdb
+H:\Informatique\Projet Quarto\Projet_218_Hgot_Chalan\Projet1\obj\Debug\Projet1.csprojResolveAssemblyReference.cache
+H:\Informatique\Projet Quarto\Projet_218_Hgot_Chalan\Projet1\obj\Debug\Projet1.exe
+H:\Informatique\Projet Quarto\Projet_218_Hgot_Chalan\Projet1\obj\Debug\Projet1.pdb
+D:\Dossier école\$ENSC 1A\Quavo Informatique\Projet_218_Hgot_Chalan\Projet1\bin\Debug\Projet1.exe.config
+D:\Dossier école\$ENSC 1A\Quavo Informatique\Projet_218_Hgot_Chalan\Projet1\bin\Debug\Projet1.exe
+D:\Dossier école\$ENSC 1A\Quavo Informatique\Projet_218_Hgot_Chalan\Projet1\bin\Debug\Projet1.pdb
+D:\Dossier école\$ENSC 1A\Quavo Informatique\Projet_218_Hgot_Chalan\Projet1\obj\Debug\Projet1.csprojAssemblyReference.cache
+D:\Dossier école\$ENSC 1A\Quavo Informatique\Projet_218_Hgot_Chalan\Projet1\obj\Debug\Projet1.csproj.CoreCompileInputs.cache
+D:\Dossier école\$ENSC 1A\Quavo Informatique\Projet_218_Hgot_Chalan\Projet1\obj\Debug\Projet1.exe
+D:\Dossier école\$ENSC 1A\Quavo Informatique\Projet_218_Hgot_Chalan\Projet1\obj\Debug\Projet1.pdb
+H:\INFO\PROJET\Projet_218_Hgot_Chalan\Projet1\bin\Debug\Projet1.exe.config
+H:\INFO\PROJET\Projet_218_Hgot_Chalan\Projet1\obj\Debug\Projet1.exe
+H:\INFO\PROJET\Projet_218_Hgot_Chalan\Projet1\obj\Debug\Projet1.pdb
+H:\INFO\PROJET\Projet_218_Hgot_Chalan\Projet1\bin\Debug\Projet1.exe
+H:\INFO\PROJET\Projet_218_Hgot_Chalan\Projet1\bin\Debug\Projet1.pdb
+H:\INFO\PROJET\Projet_218_Hgot_Chalan\Projet1\obj\Debug\Projet1.csprojResolveAssemblyReference.cache
